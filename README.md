@@ -14,10 +14,10 @@
 [<img align="left" alt="ash-stephen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
----
+
 ### Languages and Tools:
 [<img align="left" alt="SolidWorks" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 
 [linkedin]: https://linkedin.com/in/ash-stephen
 [instagram]: https://instagram.com/livin_ash
----
+
