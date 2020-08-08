@@ -4,7 +4,7 @@
 <!--- The below is used to add LATEX Equations --->
 <!--- <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = \text{Hello World}"> --->
 
-### Hi there, I'm Ash 
+## Hi there, I'm Ash 
 
-## I am a mechanical engineer by profession on the way to becoming a data engineer!
+### I am a mechanical engineer by profession on the way to becoming a data engineer!
 
