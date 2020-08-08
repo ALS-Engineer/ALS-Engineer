@@ -22,6 +22,8 @@
 
 [linkedin]: https://linkedin.com/in/ash-stephen
 [instagram]: https://instagram.com/livin_ash
+[python]: https://python.org
 [solidworks]: https://solidworks.com
+[latex]: https://www.latex-project.org/
 
 ## hello
