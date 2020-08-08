@@ -20,9 +20,9 @@
 [<img align="left" alt="SolidWorks" width="25px" src="https://icon-library.com/images/solidworks-icon/solidworks-icon-23.jpg" />]
 [<img align="left" alt="Latex" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/TeXShop_icon.png" />]
 
-<br />
-<br />
----
+
 [linkedin]: https://linkedin.com/in/ash-stephen
 [instagram]: https://instagram.com/livin_ash
----
+
+<br />
+<br />
