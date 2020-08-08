@@ -10,14 +10,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ash-stephen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ash-stephen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ash-stephen | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ash-stephen | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />]
-[<img align="left" alt="SolidWorks" width="30px" src="https://www.clipartmax.com/png/middle/256-2566934_solidworks-logo-computer-software-mechanical-engineering-logo-de-solidworks-png.png" />]
+[<img align="left" alt="Python" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />]
+[<img align="left" alt="SolidWorks" width="25px" src="https://e7.pngegg.com/pngimages/613/563/png-clipart-red-and-white-sw-cube-illustration-solidworks-logo-computer-software-mechanical-engineering-cam-newton-miscellaneous-3d-computer-graphics.png" />]
 
 
 
