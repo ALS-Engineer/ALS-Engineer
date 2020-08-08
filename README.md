@@ -16,7 +16,7 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="SolidWorks" width="30px" src="https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/7e1c19d75085bfb7004db332a7665fc8/large.png" />]
+[<img align="left" alt="SolidWorks" width="30px" src="https://banner2.cleanpng.com/20180624/qh/kisspng-solidworks-computer-software-3d-computer-graphics-5b2f55f7d1a4c9.4362981515298288558587.jpg" />]
 
 [linkedin]: https://linkedin.com/in/ash-stephen
 [instagram]: https://instagram.com/livin_ash
