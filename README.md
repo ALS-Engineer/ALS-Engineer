@@ -12,4 +12,4 @@
 [<img align="left" alt="Ash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: www.linkedin.com/in/ash-stephen
+[linkedin]: htpps://linkedin.com/in/ash-stephen
