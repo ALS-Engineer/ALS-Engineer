@@ -25,5 +25,3 @@
 [python]: https://python.org
 [solidworks]: https://solidworks.com
 [latex]: https://www.latex-project.org/
-
-## hello
