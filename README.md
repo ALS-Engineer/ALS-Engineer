@@ -20,8 +20,10 @@
 [<img align="left" alt="Keras" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />][keras]
 [<img align="left" alt="Tensorflow" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />][tensorflow]
 [<img align="left" alt="SolidWorks" width="34px" src="https://icon-library.com/images/solidworks-icon/solidworks-icon-23.jpg" />][solidworks]
+[<img align="left" alt="Ansys" width="34px" src="https://i.pinimg.com/originals/fb/ad/bc/fbadbcb896dcbb2d797da62f7d7c5d42.png" />][ansys]
 [<img align="left" alt="Latex" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/TeXShop_icon.png" />][latex]
 [<img align="left" alt="Matlab" width="34px" src="https://www.mathworks.com/company/newsletters/articles/the-mathworks-logo-is-an-eigenfunction-of-the-wave-equation/_jcr_content/mainParsys/image_2.adapt.480.high.gif/1469941373397.gif" />][matlab]
+
 
 
 
@@ -31,5 +33,6 @@
 [tensorflow]: https://www.tensorflow.org/
 [python]: https://python.org
 [solidworks]: https://solidworks.com
+[ansys]: https://ansys.com
 [latex]: https://www.latex-project.org/
 [matlab]: https://mathworks.com/
