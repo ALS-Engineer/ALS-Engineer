@@ -22,8 +22,7 @@
 
 <br />
 <br />
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ALS-Engineer&show_icons=true&hide_border=true" />
-
+---
 [linkedin]: https://linkedin.com/in/ash-stephen
 [instagram]: https://instagram.com/livin_ash
+---
