@@ -16,10 +16,7 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="SolidWorks" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="SolidWorks" width="26px" src="https://www.clipartmax.com/png/middle/256-2566934_solidworks-logo-computer-software-mechanical-engineering-logo-de-solidworks-png.png" />]
 
 [linkedin]: https://linkedin.com/in/ash-stephen
 [instagram]: https://instagram.com/livin_ash
-
-<br />
-<br />
