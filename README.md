@@ -10,6 +10,8 @@
 
 ### Connect with me:
 [<img align="left" alt="ash-stephen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ash-stephen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [linkedin]: https://linkedin.com/in/ash-stephen
+[instagram]: https://instagram.com/livin_ash
