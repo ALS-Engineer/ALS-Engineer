@@ -16,7 +16,7 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="SolidWorks" width="30px" src="https://banner2.cleanpng.com/20180505/fjw/kisspng-programming-language-python-github-inc-czech-repu-5aee3f21086b96.2186135215255631690345.jpg" />]
+[<img align="left" alt="SolidWorks" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />]
 
 [linkedin]: https://linkedin.com/in/ash-stephen
 [instagram]: https://instagram.com/livin_ash
