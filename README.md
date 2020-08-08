@@ -17,7 +17,6 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />]
-
 [<img align="left" alt="SolidWorks" width="30px" src="https://www.clipartmax.com/png/middle/256-2566934_solidworks-logo-computer-software-mechanical-engineering-logo-de-solidworks-png.png" />]
 
 
