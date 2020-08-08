@@ -18,7 +18,7 @@
 ### Languages and Tools:
 [<img align="left" alt="Python" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />]
 [<img align="left" alt="SolidWorks" width="25px" src="https://icon-library.com/images/solidworks-icon/solidworks-icon-23.jpg" />]
-[<img align="left" alt="Latex" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/TeXShop_icon.png" />]
+[<img align="left" alt="Latex" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/TeXShop_icon.png" />]
 
 
 
