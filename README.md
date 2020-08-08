@@ -1,6 +1,3 @@
-### Hi there 👋
+" ![gif from nerdy.dev](https://github.com/ALS-Engineer/ALS-Engineer/blob/master/argyleink-sm2.gif?raw=true)"
 
-- 🔭 I’m currently working on neural networks
-- 🌱 I’m currently pursuing my masters in mechanical engineering
-- 🤔 I’m looking for help with condition monitoring using AI
-- 💬 Ask me about anything
+## Hello World
