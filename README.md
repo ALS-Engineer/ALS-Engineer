@@ -19,7 +19,7 @@
 [<img align="left" alt="Python" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][python]
 [<img align="left" alt="SolidWorks" width="25px" src="https://icon-library.com/images/solidworks-icon/solidworks-icon-23.jpg" />][solidworks]
 [<img align="left" alt="Latex" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/TeXShop_icon.png" />][latex]
-[<img align="left" alt="Matlab" width="34px" src="https://www.mathworks.com/company/newsletters/articles/the-mathworks-logo-is-an-eigenfunction-of-the-wave-equation/_jcr_content/mainParsys/image_2.adapt.480.high.gif/1469941373397.gif" />][matlab]
+[<img align="left" alt="Matlab" width="25px" src="https://www.mathworks.com/company/newsletters/articles/the-mathworks-logo-is-an-eigenfunction-of-the-wave-equation/_jcr_content/mainParsys/image_2.adapt.480.high.gif/1469941373397.gif" />][matlab]
 
 
 [linkedin]: https://linkedin.com/in/ash-stephen
