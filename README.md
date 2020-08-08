@@ -9,7 +9,7 @@
 ### I am a mechanical engineer by profession on the way to becoming a data engineer!
 
 ### Connect with me:
-[<img align="left" alt="Ash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ash-stephen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: htpps://linkedin.com/in/ash-stephen
